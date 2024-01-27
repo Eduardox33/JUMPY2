@@ -1,0 +1,2 @@
+Game Width: 400px
+Game Height: 700px 
